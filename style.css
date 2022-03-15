@@ -60,6 +60,7 @@ h2{
     z-index: 10;
   background-color:aqua;
   padding:30px;
+    width:100%;
 }
 .iteam{
  display: inline;
